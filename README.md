@@ -10,6 +10,13 @@ This is a simple weather app that allows users to view the current weather condi
   * View temperature, humidity, wind speed and precipitation 
   
   * Responsive UI for both portrait and landscape mode
+
+  * Updates every minute
+  
+  * Icons that dynamically reflect the current weather conditions 
+ 
+ ![image](https://user-images.githubusercontent.com/102334419/209750898-655c97ac-6879-4d89-87b7-8d8482627d43.png)
+
   
 ## Technologies Used:
   * Kotlin
