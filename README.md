@@ -2,6 +2,10 @@
 
 This is a simple weather app that allows users to view the current weather conditions and forecast for a given location. The app uses data from a popular weather API to display the current temperature, humidity, wind speed, and a brief weather summary. Users can search for a location by city name or zip code, or use their device's current location to display the weather.
 
+
+![Weather_AppGIF](https://user-images.githubusercontent.com/102334419/209752546-8bae87f5-a112-4d98-b0ba-a8171ac381d4.gif)
+
+
 ## Features:
   * Display current weather conditions of your current location 
   
@@ -15,10 +19,6 @@ This is a simple weather app that allows users to view the current weather condi
   
   * Icons that dynamically reflect the current weather conditions 
  
-
-![Weather_AppGIF](https://user-images.githubusercontent.com/102334419/209752546-8bae87f5-a112-4d98-b0ba-a8171ac381d4.gif)
-
-  
 ## Technologies Used:
   * Kotlin
   * Android Studio
