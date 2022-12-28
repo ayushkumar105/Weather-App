@@ -9,6 +9,8 @@ This is a simple weather app that allows users to view the current weather condi
 
   * View temperature, humidity, wind speed and precipitation 
   
+  * Responsive UI for both portrait and landscape mode
+  
 ## Technologies Used:
   * Kotlin
   * Android Studio
