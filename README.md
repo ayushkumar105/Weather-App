@@ -15,7 +15,8 @@ This is a simple weather app that allows users to view the current weather condi
   
   * Icons that dynamically reflect the current weather conditions 
  
- ![image](https://user-images.githubusercontent.com/102334419/209750898-655c97ac-6879-4d89-87b7-8d8482627d43.png)
+
+![Weather_AppGIF](https://user-images.githubusercontent.com/102334419/209752546-8bae87f5-a112-4d98-b0ba-a8171ac381d4.gif)
 
   
 ## Technologies Used:
