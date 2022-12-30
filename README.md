@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple weather app that allows users to view the current weather conditions and forecast for a given location. The app uses data from a popular weather API to display the current temperature, humidity, wind speed, and a brief weather summary. Users can search for a location by city name or zip code, or use their device's current location to display the weather.
+This is a simple weather app that allows users to view the weather condition for the current location. The app uses data from a popular weather API to display the current temperature, humidity, wind speed, and a brief weather summary.
 
 
 
@@ -8,7 +8,7 @@ This is a simple weather app that allows users to view the current weather condi
 
 
 ## Features:
-  * Display current weather conditions of your current location 
+  * Display weather condition of your current location 
   
   * Use device's current location to display weather
 
