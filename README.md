@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple weather app that allows users to view the weather condition for the current location. The app uses data from a popular weather API to display the current temperature, humidity, wind speed, and a brief weather summary.
+This app provides users with a view of the current weather conditions at their location. It utilizes data from a well-known weather API to show the temperature, humidity, wind speed, and a summary of the weather. 
 
 
 
